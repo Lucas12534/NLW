@@ -1,14 +1,19 @@
-# NLW esporsts 
-![preview](./.github/preview.png)
->trilha Explorer
+# NLW esporsts
 
-Projeto feito do evento Next Level Week da
+> trilha Explorer
+
+![preview](./.github/preview.png)
+
+Projeto feito do evento Next Level Week 
 
 [Clique aqui para acessar](https://lucas12534.github.io/NLW-esports-explorer/*)
-## 🛠 Tecnologias 
+
+## 🛠 Tecnologias
+
 - HTML
 - CSS
 - Git e GitHub
 
-## ❤ Contato 
+## ❤ Contato
+
 @Lucasuchoa2182@gmail.com
